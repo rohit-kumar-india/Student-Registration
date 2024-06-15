@@ -35,3 +35,13 @@ README.md: Contains project documentation and setup instructions.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Screenshots
+
+![alt text](public/images/image.png)
+
+![alt text](public/images/image-1.png) 
+
+![alt text](public/images/image-2.png) 
+
+![alt text](public/images/image-3.png)
